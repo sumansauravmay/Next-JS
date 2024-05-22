@@ -1,0 +1,22 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "task-1",
+      "description": "this is the first task",
+      "status":"true"
+    },
+    {
+      "id": 2,
+      "title": "task-2",
+      "description": "this is the Second task",
+      "status":"true"
+    },
+    {
+      "id": 3,
+      "title": "task-3",
+      "description": "this is the third task",
+      "status":"true"
+    }
+  ]
+}
